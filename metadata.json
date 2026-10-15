@@ -1,0 +1,6 @@
+{
+  "name": "L'AURORA Architectural Convention & Event Centre",
+  "description": "Artistic, modern, and professional convention hall booking platform with comprehensive spatial, technical, and regulatory requirements guidance and interactive booking configurator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
